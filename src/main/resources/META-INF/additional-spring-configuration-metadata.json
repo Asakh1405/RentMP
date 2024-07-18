@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.datasourcee.pasword",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourcee.pasword'"
+  },
+  {
+    "name": "springdoc.swagger-ui.path",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.swagger-ui.path'"
+  },
+  {
+    "name": "springdoc.swagger-ui.path",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.swagger-ui.path'"
+  }
+]}
